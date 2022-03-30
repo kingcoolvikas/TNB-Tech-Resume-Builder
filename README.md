@@ -1,7 +1,12 @@
-# Resume generator
-Web based editor to create Resume in a customizable template  
+# Resume Builder
+## We Made a Free Resume Builder for TNB-Tech-2022 Using Html and Css only. 
   
 Try it : https://kingcoolvikas.github.io/TNB-Tech-Resume-Builder/ 
+
+![Front_Page](images/Front.png)
+![Bottom_Page](images/Bottom.png)
+![Resume_Page](images/Resume.png)
+
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
@@ -11,17 +16,5 @@ Try it : https://kingcoolvikas.github.io/TNB-Tech-Resume-Builder/
 - Section visibility can be toggled while retaining the content.
 - Options provided in the left panel to modify the template and formatting.
 - Sub-points can be added with various bullet styles and adjustable indentation.
-- Script provided to merge multiple pages and compress the PDF.
 
-#### Using the merge & compress script
-- You must be able to run python file on your system for this.
-- Save the individual pages in PDF format with name ```1.pdf``` , ```2.pdf```
-- Download the ```compress_pdf.py``` file and open it in a text editor.
-- Set the following variables :
-	- ```dir_path``` : Directory path where you saved the PDFs for individual page
-	- ```num_of_pages``` : Number of files to merge (i.e. pages in your Resume)
-	- ```out_file``` : Name of output file
-- Run this python file.
-- Note: As this creates a new PDF file, you may have to see permission settings or run with sudo on terminal.
-
-**Note** : Use Google Chrome
+_Author : Vikas Anand_
