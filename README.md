@@ -1,4 +1,7 @@
 # Resume Builder
+
+_Author : Vikas Anand_
+
 ## We Made a Free Resume Builder for TNB-Tech-2022 Using Html and Css only. 
   
 Try it : https://kingcoolvikas.github.io/TNB-Tech-Resume-Builder/ 
@@ -17,4 +20,3 @@ Try it : https://kingcoolvikas.github.io/TNB-Tech-Resume-Builder/
 - Options provided in the left panel to modify the template and formatting.
 - Sub-points can be added with various bullet styles and adjustable indentation.
 
-_Author : Vikas Anand_
