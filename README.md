@@ -6,9 +6,7 @@ _Author : Vikas Anand_
   
 Try it : https://kingcoolvikas.github.io/TNB-Tech-Resume-Builder/ 
 
-![Front_Page](images/Front.png)
-![Bottom_Page](images/Bottom.png)
-![Resume_Page](images/Resume.png)
+
 
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
